@@ -1,4 +1,3 @@
-layout_spectrum: 0.5337171112187207
 typography_spectrum: 0.8818888948298991
 color:
   brandStrength: 0.4741275848355144
@@ -11,4 +10,6 @@ color:
     - '#FFFCC4'
     - '#F0EDBB'
     - '#FF3800'
+layout_spectrum: 0.5337171112187207
 name: Fjoerman
+title: Fjoerman
